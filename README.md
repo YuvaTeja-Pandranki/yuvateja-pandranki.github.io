@@ -1,16 +1,14 @@
-# Yuva Teja Pandranki — Senior AI/ML Engineer Portfolio
+# Yuva Teja Pandranki — Senior AI/ML Engineer
 
-Personal portfolio website for Yuva Teja Pandranki, Senior AI/ML Engineer with 12+ years of experience in GenAI platforms, RAG pipelines, and real-time ML systems.
+Personal portfolio of Yuva Teja Pandranki, Senior AI/ML Engineer with 12+ years experience in GenAI, RAG pipelines, and real-time ML systems.
 
 ## Live Site
 
-🔗 [https://yuvatejapandranki.github.io](https://yuvatejapandranki.github.io) *(replace with your GitHub Pages URL)*
+https://yuvateja-pandranki.github.io/Yuvateja-Portfolio
 
 ## Built With
 
-- Vanilla HTML
-- CSS
-- JavaScript
+Vanilla HTML, CSS, JavaScript — no frameworks
 
 ## Sections
 
