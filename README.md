@@ -4,7 +4,7 @@ Personal portfolio of Yuva Teja Pandranki, Senior AI/ML Engineer with 12+ years 
 
 ## Live Site
 
-https://yuvateja-pandranki.github.io/Yuvateja-Portfolio
+https://yuvateja-pandranki.github.io
 
 ## Built With
 
